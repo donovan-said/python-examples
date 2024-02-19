@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[requires]
+python_version = "3.9"
+
+[packages]
+pipfile = "*"
+
+[dev-packages]
+pylint = "==2.17.1"
+pytest = "==6.2.5"
+pre-commit = "==3.5.0"
