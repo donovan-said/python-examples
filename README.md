@@ -1,6 +1,7 @@
-# Template Python Github Repository
+# python-examples
 
-A repository to use as a template for Pythion repositories.
+A repository to play around with the python, create examples, and collate useful
+snippets found online.
 
 ## Requirements
 
