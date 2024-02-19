@@ -17,6 +17,12 @@ __Reference__:
 
 # CHANGELOG
 
+## [0.2.0]
+
+### Added
+
+* Example on how through loop through nested dictionaries.
+
 ## [0.1.0]
 
 ### Added
