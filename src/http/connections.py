@@ -14,7 +14,7 @@ def http_connection():
         "https://www.google.com", headers={"User-Agent": "TEST"}
     )
     status_code = result.status_code
-    print("Status Code: '%s'" % status_code)
+    print(f"Status Code: {status_code}")
 
     """
     Without User-Agent header
@@ -28,7 +28,7 @@ def http_connection():
     print("Connecting without User-Agent header...")
     result = requests.get("https://www.google.com", headers=skip_header)
     status_code = result.status_code
-    print("Status Code: '%s'" % status_code)
+    print(f"Status Code: {status_code}")
 
 
 if __name__ == "__main__":

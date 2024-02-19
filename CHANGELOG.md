@@ -23,6 +23,10 @@ __Reference__:
 
 * Example on how through loop through nested dictionaries.
 
+### Changed
+
+* Print statements to use Print(f"")
+
 ## [0.1.0]
 
 ### Added

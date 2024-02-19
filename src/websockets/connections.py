@@ -12,7 +12,7 @@ def websocket_connection():
     print("Sending test message...")
     ws.send("TEST MSG")
     result = ws.recv()
-    print("Recieved '%s" % result)
+    print(f"Recieved {result}")
     print("Closing connection...")
     ws.close()
     print("Connection closed.")
