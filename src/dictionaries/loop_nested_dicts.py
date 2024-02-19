@@ -9,7 +9,7 @@ with open(f"{Path(__file__).parent}/context/sample.json") as conf:
 
 
 def loop_nested_dicts():
-    print(conf)
+    """A function to loop through nested disctionaries"""
 
     for root_k, root_v in conf.items():
         root_envs = root_k
