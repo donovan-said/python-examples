@@ -1,0 +1,20 @@
+{
+  "DEV": {
+    "DEV1" : {
+      "SAMPLE_KEY": "DEV1_SAMPLE_VALUE"
+    },
+    "DEV2" : {
+      "SAMPLE_KEY": "DEV2_SAMPLE_VALUE"
+    }
+  },
+  "TEST": {
+    "TEST1" : {
+      "SAMPLE_KEY": "TEST1_SAMPLE_VALUE"
+    }
+  },
+  "PROD": {
+    "PROD1" : {
+      "SAMPLE_KEY": "PROD1_SAMPLE_VALUE"
+    }
+  }
+}
