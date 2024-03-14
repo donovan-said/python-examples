@@ -3,12 +3,19 @@
 A repository to play around with the python, create examples, and collate useful
 snippets found online.
 
+- [python-examples](#python-examples)
+  - [Requirements](#requirements)
+  - [Setup](#setup)
+    - [pipenv](#pipenv)
+    - [pre-commit](#pre-commit)
+  - [Examples](#examples)
+
 ## Requirements
 
-| Tool                                                                                     | Description                                     |
-|:-----------------------------------------------------------------------------------------|:------------------------------------------------|
-| [Pipenv](https://pypi.org/project/pipenv/)                                               | Required to manahe pip packages                 |
-| [pre-commit](https://pre-commit.com/)                                                    | Used to ensure standards prior to commits       |
+| Tool                                       | Description                               |
+| :----------------------------------------- | :---------------------------------------- |
+| [Pipenv](https://pypi.org/project/pipenv/) | Required to manahe pip packages           |
+| [pre-commit](https://pre-commit.com/)      | Used to ensure standards prior to commits |
 
 ## Setup
 
@@ -40,3 +47,12 @@ command:
 ```shell
 pre-commit install
 ```
+
+## Examples
+
+| Samples Code                      | Description                               |
+| :-------------------------------- | :---------------------------------------- |
+| [Dictionaries](src/dictionaries/) | Working with dictionaries                 |
+| [HTTP](src/http/)                 | Working with the HTTP protocol            |
+| [Websocket](src/websockets/)      | Working with the Websockets protocol      |
+| [Lambda](src/lambda/)             | Working with lambda (anonymous) functions |

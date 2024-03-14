@@ -17,6 +17,14 @@ __Reference__:
 
 # CHANGELOG
 
+## [0.4.0]
+
+### Added
+
+* Sample lambda code
+* TOC to README
+* Examples outline in README
+
 ## [0.3.0]
 
 ### Changed
