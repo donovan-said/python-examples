@@ -50,9 +50,10 @@ pre-commit install
 
 ## Examples
 
-| Samples Code                      | Description                               |
-| :-------------------------------- | :---------------------------------------- |
-| [Dictionaries](src/dictionaries/) | Working with dictionaries                 |
-| [HTTP](src/http/)                 | Working with the HTTP protocol            |
-| [Websocket](src/websockets/)      | Working with the Websockets protocol      |
-| [Lambda](src/lambda/)             | Working with lambda (anonymous) functions |
+| Samples Code                                    | Description                               |
+| :---------------------------------------------- | :---------------------------------------- |
+| [Dictionaries](src/dictionaries/)               | Working with dictionaries                 |
+| [List Comprehensions](src/list-comprehensions/) | Working with list comprehensions          |
+| [HTTP](src/http/)                               | Working with the HTTP protocol            |
+| [Websocket](src/websockets/)                    | Working with the Websockets protocol      |
+| [Lambda](src/lambda/)                           | Working with lambda (anonymous) functions |
